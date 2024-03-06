@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">submissionAndroidPemula</string>
+    <string name="home_string">Classroom Of Elite</string>
+    <string name="about_string">About</string>
+    <string name="detail_string">Detail</string>
+
+    <string name="characters_name">Characters Name</string>
+    <string name="description">Description</string>
+    <string name="voices">Voice Over by lorem ipsum dolor sit amet</string>
+    <string name="detail">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquam assumenda dolorem earum eligendi enim eum excepturi, exercitationem expedita fugiat, id impedit ipsa magnam maiores odit, officia optio provident quaerat quas quasi quis quod quos sed sint sit velit voluptas. Accusamus aut autem beatae, consectetur consequatur deleniti dicta dignissimos dolor dolore, dolores earum est et eum expedita inventore laborum laudantium libero minima minus modi molestiae non nulla officia perspiciatis quae quis quod rerum suscipit tempora voluptas? Adipisci architecto blanditiis debitis dolores eos excepturi facilis hic laudantium libero minima nesciunt, nihil nisi odit optio quasi recusandae sequi tenetur totam unde.</string>
+
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <string name="about">about</string>
+    <string name="share">share</string>
+    <string name="text_view">text_view</string>
+    <string name="todo">TODO</string>
+
+    <string name="myname">Labib Ikhsan Putrantino</string>
+    <string name="contact">Labib724@gmail.com\n<a href="https://www.linkedin.com/in/labib-putrantino-995493185/">linkedin.com</a></string>
+    <string name="resource">Content Resource :\n<a href="https://you-zitsu.fandom.com/wiki/You-Zitsu_Wiki">you-zitsu.fandom.com</a></string>
+
+    <string-array name="names">
+        <item>Kiyotaka Ayanokoji</item>
+        <item>Suzune Horikita</item>
+        <item>Kikyo Kushida</item>
+        <item>Kei Karuizawa</item>
+        <item>Yosuke Hirata</item>
+        <item>Kakeru Ryuen</item>
+        <item>Arisu Sakayanagi</item>
+        <item>Manabu Horikita</item>
+        <item>Akane Tachibana</item>
+        <item>Honami Ichinose</item>
+        <item>Kohei Katsuragi</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="voices">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string-array name="details">
+        <item>Ayanokōji Kiyotaka is the main protagonist of the You-Zitsu series. He is currently a second-year student of Advanced Nurturing High School. Following the entrance exam in which he scored precisely 50 points in every subject, he was placed in D-Class. In the anime adaptation, he sits at the rear left corner of the class seat next to Suzune Horikita.</item>
+        <item>Horikita Suzune is one of the main characters of the You-Zitsu series and the main heroine of the √Horikita spin-off manga. She is known to be the younger sister of Manabu Horikita, the Student Council president of the school on the 1st Year Arc.She is currently a second-year student of Advanced Nurturing High School. At the start of the series, she was introduced as the class representative and a student of Class 1-D, seated at the rear row of the class, next to Kiyotaka Ayanokōji.Despite her academic ability, she was placed in D-Class due to her inability to work with others. Nevertheless, she strives for A-Class and will do anything to reach that goal.</item>
+        <item>Kushida Kikyō is one of the main characters of the You-Zitsu series. She is a student of Class 1-D. She is quite popular in her class as well as the whole school as she aims to befriend everyone.</item>
+        <item>Karuizawa Kei is one of the main characters of the You-Zitsu series. She is a student of Class 1-D and is seated next to Kikyō Kushida. She is known to be a former student of the prestigious White Room, a special program for gifted students. She is also the girlfriend of Kiyotaka Ayanokōji.</item>
+        <item>Hirata Yōsuke is one of the main characters of the You-Zitsu series. He is a student of Class 1-D and is seated next to Kikyō Kushida. He is known to be the class representative of his class. He is also the best friend of Kiyotaka Ayanokōji.</item>
+        <item>Ryūen Kakeru is one of the main characters of the You-Zitsu series. He is a student of Class 1-C and is known to be the leader of the class. </item>
+        <item>Sakayanagi Arisu is one of the main characters of the You-Zitsu series. She is a student of Class 1-A and is known to be the leader of the class. She is also the girlfriend of Kiyotaka Ayanokōji.</item>
+        <item>Horikita Manabu was a former student of Advanced Nurturing High School and the older brother of Suzune Horikita who initially served as the Student Council President.</item>
+        <item>Tachibana Akane is a student of Advanced Nurturing High School and the secretary of the Student Council.</item>
+        <item>Ichinose Honami is a student of Advanced Nurturing High School and the former class representative of Class 1-B.</item>
+        <item>Katsuragi Kōhei is a student of Advanced Nurturing High School and the former class representative of Class 1-A.</item>
+     </string-array>
+
+    <integer-array name="photos">
+        <item>@drawable/kiyotakaayanokoji</item>
+        <item>@drawable/suzunehorikita</item>
+        <item>@drawable/kikyokushida</item>
+        <item>@drawable/keikaruizawa</item>
+        <item>@drawable/yosukehirata</item>
+        <item>@drawable/kakeruryuen</item>
+        <item>@drawable/arisusakayanagi</item>
+        <item>@drawable/manabuhorikita</item>
+        <item>@drawable/akanetachibana</item>
+        <item>@drawable/honamiichinose</item>
+        <item>@drawable/koheikatsuragi</item>
+    </integer-array>
+</resources>
